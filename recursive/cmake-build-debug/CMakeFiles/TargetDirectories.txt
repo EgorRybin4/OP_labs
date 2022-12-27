@@ -1,0 +1,3 @@
+D:/ucheba_ebanaya/otchety_OP/OP_code/recursive/cmake-build-debug/CMakeFiles/lab10_op_recursive.dir
+D:/ucheba_ebanaya/otchety_OP/OP_code/recursive/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ucheba_ebanaya/otchety_OP/OP_code/recursive/cmake-build-debug/CMakeFiles/rebuild_cache.dir
